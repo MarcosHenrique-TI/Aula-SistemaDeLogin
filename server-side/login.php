@@ -1,5 +1,5 @@
 <?php
-$emai= $_POST['email'];
+$email = $_POST['email'];
 $password = $_POST['password'];
 
 $users = file("users.txt");
